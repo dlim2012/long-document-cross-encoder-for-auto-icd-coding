@@ -1,8 +1,3 @@
-"""
-Disabled ANCE: commented out saving ranks in numpy file
-"""
-
-
 import os
 import torch
 import numpy as np
